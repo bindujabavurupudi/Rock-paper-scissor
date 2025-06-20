@@ -2,11 +2,10 @@
     padding: 0;
     margin: 0;
 }
-h1{
-    line-height: 15vmin;
-    text-align: center;
-    height: 15vmin;
-    width: 100%;
+#heading{
+    padding-top: 5vmin;
+    height: 5rem;
+    width: 100vw;
     background-color: #081b31;
     color: white;
 }
@@ -39,7 +38,6 @@ img:hover{
     flex-wrap: wrap;
 }
 .you{
-    font-size: 3vmin;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -47,7 +45,6 @@ img:hover{
     
 }
 .comp{
-    font-size: 3vmin;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -55,7 +52,7 @@ img:hover{
 
 }
 .score{
-    width: 80vmin;
+    width: 50vmin;
     height: 20vmin;
     display: flex;
     align-items: center;
