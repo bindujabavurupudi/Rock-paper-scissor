@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#heading{
+    padding-top: 5vmin;
+    height: 5rem;
+    width: 100vw;
+    background-color: #081b31;
+    color: white;
+}
+body{
+    text-align: center;
+}
+img{
+    height: 30vmin;
+    width: 30vmin;
+}
+img:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+.images{
+    gap: 2.5vmin;
+    width: 96vmin;
+    height: 50vmin;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.game{
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.you{
+    font-size: 5vmin;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.comp{
+    font-size: 5vmin;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.score{
+    width: 80vmin;
+    height: 20vmin;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+    gap: 18vmin;
+}
+
+#para{
+    font-size: 7vmin;
+}
+.total{
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
