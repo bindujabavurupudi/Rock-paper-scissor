@@ -63,7 +63,7 @@ img:hover{
     flex-wrap: wrap;
     justify-content: center;
     flex-direction: row;
-    gap: 18vmin;
+    gap: 10vmin;
 }
 
 #para1{
