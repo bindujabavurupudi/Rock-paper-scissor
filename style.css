@@ -19,6 +19,8 @@ img{
 img:hover{
     transform: scale(1.1);
     transition: 0.3s;
+    cursor: pointer;
+
 }
 
 .images{
@@ -64,12 +66,24 @@ img:hover{
     gap: 18vmin;
 }
 
-#para{
+#para1{
+    font-size: 7vmin;
+}
+#para2{
     font-size: 7vmin;
 }
 .total{
      display: flex;
+     flex-direction: column;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
+}
+.result{
+    background-color: black;
+    color: white;
+    padding: 1vw;
+    display: inline;
+    font-size: 4vmin;
+    border: none;
+    border-radius: 1vw;
 }
