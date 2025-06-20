@@ -3,7 +3,9 @@
     margin: 0;
 }
 #heading{
-    padding-top: 5vmin;
+    line-height: 10vmin;
+    font-size: 8vmin;
+    text-align: center;
     height: 5rem;
     width: 100vw;
     background-color: #081b31;
