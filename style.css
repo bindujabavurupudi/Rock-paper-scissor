@@ -4,7 +4,7 @@
 }
 #heading{
     line-height: 10vmin;
-    font-size: 8vmin;
+    font-size: 6vmin;
     text-align: center;
     height: 5rem;
     width: 100vw;
@@ -40,7 +40,7 @@ img:hover{
     flex-wrap: wrap;
 }
 .you{
-    font-size: 5vmin;
+    font-size: 3vmin;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -48,7 +48,7 @@ img:hover{
     
 }
 .comp{
-    font-size: 5vmin;
+    font-size: 3vmin;
     display: flex;
     align-items: center;
     justify-content: center;
