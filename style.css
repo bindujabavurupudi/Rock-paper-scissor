@@ -38,6 +38,7 @@ img:hover{
     flex-wrap: wrap;
 }
 .you{
+    font-size: 4vmin;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -45,6 +46,7 @@ img:hover{
     
 }
 .comp{
+    font-size: 4vmin;
     display: flex;
     align-items: center;
     justify-content: center;
