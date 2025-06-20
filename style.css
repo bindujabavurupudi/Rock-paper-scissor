@@ -3,10 +3,10 @@
     margin: 0;
 }
 #heading{
-    padding-top: 5vmin;
-    height: 5rem;
+    line-height: 15vmin;
+    height: 15vmin;
     width: 100vw;
-    background-color: black;
+    background-color: #081b31;
     color: white;
 }
 body{
