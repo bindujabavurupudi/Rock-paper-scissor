@@ -3,10 +3,10 @@
     margin: 0;
 }
 #heading{
-    line-height: 10vmin;
+    line-height: 15vmin;
     font-size: 6vmin;
     text-align: center;
-    height: 5rem;
+    height: 15vh;
     width: 100vw;
     background-color: #081b31;
     color: white;
