@@ -31,7 +31,6 @@ img:hover{
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    flex-direction: row;
 }
 .game{
      display: flex;
@@ -39,7 +38,7 @@ img:hover{
     justify-content: center;
     flex-wrap: wrap;
 }
-.you{
+.you comp{
     font-size: 3vmin;
     display: flex;
     align-items: center;
@@ -47,14 +46,7 @@ img:hover{
     flex-direction: column;
     
 }
-.comp{
-    font-size: 3vmin;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
 
-}
 .score{
     width: 50vmin;
     height: 20vmin;
@@ -62,7 +54,6 @@ img:hover{
     align-items: center;
     flex-wrap: wrap;
     justify-content: center;
-    flex-direction: row;
     gap: 5vmin;
 }
 
